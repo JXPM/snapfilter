@@ -8,9 +8,9 @@ git remote add origin https://github.com/JXPM/snapfilter.git
 git push --set-upstream origin main
 
 #fichier Maj et push 
-git status 
+git status
 git add .
-git commit -m "Maj de mon TP5"
+git commit -m "Maj "
 git push origin main
 
 # library  
